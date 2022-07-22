@@ -50,12 +50,21 @@ After loading the dataset in Power BI, I applied following operations:
 * I applied some DAX measures in the table to find the types of tournaments,  no. of countries hosted, number of tied matches, number of games played and number of friendly tournaments.
 
 
-## Design Part:
+## Design and Visualization Part:
 
-Now, I took a plane background for this dataset. And, the color palette which I used was green, white and blue for it.
+Now, I took a plane background for this dataset. And, the color palette which I used was green, white and blue for it. I used the flaticon website to import icons from there to use in the report.
+
+After then, I applied the bar charts, area charts and cards in the report to make the entire report according to the objective required. 
+
+## Key Insights from the report:
+
+* Brazil has most number of wins.
+* Friendly matches has helped the teams and they secured more wins in those matches. Those countries are Germamy, Hungary and Sweden ( analysis was done on the total number of matches played by the teams in friendly matches as home and away teams, and then finding winner from those teams.
+* Away teams has scored more overall goals in a year according to the data in the entire matches played.
 
 
-
+## Conclusion:
+Overall, it was a nice dataset to work around with and I loved to visualize the dataset and come with the insights from it.
 
 
 
