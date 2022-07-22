@@ -47,7 +47,7 @@ After loading the dataset in Power BI, I applied following operations:
 
 ![Friendly table](https://user-images.githubusercontent.com/72240938/180413923-621abf23-4771-4378-882b-be88d36da6f4.jpg)
 
-* I applied some DAX measures in the table to find the types of tournaments,  no. of countries hosted, number of tied matches
+* I applied some DAX measures in the table to find the types of tournaments,  no. of countries hosted, number of tied matches, number of games played and number of friendly tournaments.
 
 
 ## Design Part:
