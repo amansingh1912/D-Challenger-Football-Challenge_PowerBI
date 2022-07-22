@@ -1,4 +1,9 @@
-# PowerBI_-D-Challenger-Football-Challenge
-D' Challenger International Football League Visualization
+## International Football X D'Challenger June Challenge
 
-About the dataset: Taken Part in D'Challenger's Monthly Challenge
+I have been a part of the International Football X D'Challenger June Challenge
+
+## [About the Challenge](https://www.linkedin.com/feed/update/urn:li:activity:6943269318788820992/)
+
+
+## Overview:
+
