@@ -67,5 +67,5 @@ After then, I applied the bar charts, area charts and cards in the report to mak
 Overall, it was a nice dataset to work around with and I loved to visualize the dataset and come with the insights from it.
 
 
-## [Dashboard Link] (https://app.powerbi.com/links/mh9M3sbkme?ctid=41ef9d53-cb31-4b40-a55d-0893334a4059&pbi_source=linkShare&bookmarkGuid=c2ef01dc-22f8-4966-9dc0-4166433fe068)
+## [Dashboard] (https://app.powerbi.com/links/mh9M3sbkme?ctid=41ef9d53-cb31-4b40-a55d-0893334a4059&pbi_source=linkShare&bookmarkGuid=c2ef01dc-22f8-4966-9dc0-4166433fe068)
 
